@@ -1,0 +1,30 @@
+ # Ignore temporary files
+*.tmp
+temp/
+
+# Ignore log files
+*.log
+logs/
+
+# Ignore cache files
+*.cache
+cache/
+
+# Ignore compiled code
+*.pyc
+__pycache__/
+
+# Ignore user-specific configuration
+.env
+
+# Ignore user-specific configuration
+fastapi-env
+.DS_Store
+.DS_Store Data
+.DS_Store fastapi-env
+
+# Ignore Early_files folder
+Early_files/
+
+# Ignore error.log file
+error.log
